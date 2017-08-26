@@ -1,6 +1,10 @@
 [package]
 authors = ["Julien Lecoeur <julien.lecoeur@gmail.com>"]
 name = "stm32f40x"
+description = "Peripheral access API for STM32F40X microcontrollers"
+keywords = ["no-std", "arm", "cortex-m", "stm32"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jlecoeur/stm32f40x"
 version = "0.1.0"
 
 [dependencies]
