@@ -1,0 +1,1 @@
+svd2rust -i STM32F40x.svd | rustfmt > src/lib.rs
